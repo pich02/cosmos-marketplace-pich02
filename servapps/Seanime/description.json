@@ -1,0 +1,9 @@
+{
+    "name": "Seanime",
+    "longDescription": "Open-source media server with a Web UI and Desktop app for anime and manga.",
+    "description": "Open-source media server with a Web UI and Desktop app for anime and manga.",
+    "tags": ["self-hosted"],
+    "repository": "https://github.com/5rahim/seanime",
+    "image": "https://hub.docker.com/r/valgul/seanime",
+    "supported_architectures": ["amd64"]
+}
